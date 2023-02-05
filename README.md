@@ -1,7 +1,7 @@
 # Anudip Foundation Tutorial
 
 Directory Structure
-.
+```.
 └── Anudip Foundation Tutorial/
 	├── Practical Code/
 	│	└── DD-MM-YYY/
@@ -14,3 +14,4 @@ Directory Structure
 		└── DD-MM-YYY/
 			├── file_name.java
 			└── file_name.png
+```
